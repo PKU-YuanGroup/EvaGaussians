@@ -15,7 +15,7 @@ If you like our project, please give us a star ⭐ on GitHub for latest update. 
 </h5>
 
 Implemetation of EvaGaussians: Event Stream Assisted Gaussian Splatting from Blurry Image
-<img src="assets/pipeline.svg"/>
+<img src="assets/pipeline.jpg"/>
 
 ## 🗓️ TODO
 We will update the following list after the paper is accepted.
