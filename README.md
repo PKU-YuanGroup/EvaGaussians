@@ -37,10 +37,11 @@ We will update the following list after the paper is accepted.
 <img src="assets/quan_nvs.jpeg"/>
 <img src="assets/quan_dvs.jpeg"/>
 
-<h2>
+<!-- <h2>
   <img src="assets/acknowledgement.svg" alt="Lego Icon" style="height:24px; width:24px; vertical-align:middle; margin-right:10px;">
   Acknowledgements
-</h2>
+</h2> -->
+## 🙏 Acknowledgements
 
 This source code is derived from multiple sources, in particular: 
 [gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting/tree/main), 
