@@ -19,7 +19,7 @@ Implemetation of EvaGaussians: Event Stream Assisted Gaussian Splatting from Blu
 
 ## 🗓️ TODO
 We will update the following list after the paper is accepted.
-- [x] [2024-05-29] We have released our [project page]().
+- [x] [2024-05-29] We have released our [project page](https://drexubery.github.io/EvaGaussians/).
 - [x] [2024-05-29] We have uploaded our paper, EvaGaussians on [arxiv]()
 - [ ] Upload raw dataset
 - [ ] Upload the blender file and scripts
