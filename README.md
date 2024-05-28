@@ -27,9 +27,9 @@ We will update the following list after the paper is accepted.
 
 ## 🍭 Novel and Deblurring View Synthesis Results
 ### 🌅 Qualitative comparison
-<img src="assets/quali_nvs_dvs_object_level.svg"/>
-<img src="assets/quali_nvs_dvs_medium_scale.svg"/>
-<img src="assets/appendix_refine_nvs_large_scale.svg"/>
+<img src="assets/quali_nvs_dvs_object_level.jpg"/>
+<img src="assets/quali_nvs_dvs_medium_scale.jpg"/>
+<img src="assets/appendix_refine_nvs_large_scale.jpg"/>
 <img src="assets/quali_real_scene.jpg"/>
 
 
