@@ -5,16 +5,15 @@
 If you like our project, please give us a star ⭐ on GitHub for latest update.  </h5>
 <h5 align="center">
 
-
+[![arXiv](https://img.shields.io/badge/Arxiv-2405.20224-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2405.20224)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](https://github.com/SuperFCR/EvaGaussians/blob/main/LICENSE) 
 [![GitHub repo stars](https://img.shields.io/github/stars/SuperFCR/EvaGaussians?style=flat&logo=github&logoColor=whitesmoke&label=Stars)](https://github.com/SuperFCR/EvaGaussians/stargazers)&#160;
 [![GitHub repo forks](https://img.shields.io/github/forks/SuperFCR/EvaGaussians?style=flat&logo=github&logoColor=whitesmoke&label=Forks)](https://github.com/SuperFCR/EvaGaussians/network)&#160;
 [![GitHub repo watchers](https://img.shields.io/github/watchers/SuperFCR/EvaGaussians?style=flat&logo=github&logoColor=whitesmoke&label=Watchers)](https://github.com/SuperFCR/EvaGaussians/watchers)&#160;
-[![GitHub repo size](https://img.shields.io/github/repo-size/SuperFCR/EvaGaussians?style=flat&logo=github&logoColor=whitesmoke&label=Repo%20Size)](https://github.com/SuperFCR/EvaGaussians/archive/refs/heads/main.zip)
+
 
 </h5>
-
-Implemetation of EvaGaussians: Event Stream Assisted Gaussian Splatting from Blurry Image
+Implemetation of EvaGaussians: Event Stream Assisted Gaussian Splatting from Blurry Images
 <img src="assets/pipeline.jpg"/>
 
 ## 🗓️ TODO
