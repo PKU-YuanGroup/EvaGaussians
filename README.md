@@ -14,17 +14,17 @@ If you like our project, please give us a star ⭐ on GitHub for latest update. 
 
 </h5>
 Implemetation of EvaGaussians: Event Stream Assisted Gaussian Splatting from Blurry Images
-<img src="assets/pipeline.jpg"/>
+<img src="assets/pipeline.jpeg"/>
 
 ## 🗓️ TODO
-We will update the following list after the paper is accepted.
-- [x] [2024-05-29] We have released our [project page](https://drexubery.github.io/EvaGaussians/).
+We will release the code and dataset once the paper is accepted.
+<!-- - [x] [2024-05-29] We have released our [project page](https://drexubery.github.io/EvaGaussians/).
 - [x] [2024-05-29] We have uploaded our paper, EvaGaussians on [arxiv](https://arxiv.org/abs/2405.20224)
 - [ ] Upload raw dataset
 - [ ] Upload the blender file and scripts
-- [ ] Upload the code
+- [ ] Upload the code -->
 
-## 🍭 Novel and Deblurring View Synthesis Results
+<!-- ## 🍭 Novel and Deblurring View Synthesis Results
 ### 🌅 Qualitative comparison
 <img src="assets/quali_nvs_dvs_object_level.jpg"/>
 <img src="assets/quali_nvs_dvs_medium_scale.jpg"/>
@@ -34,13 +34,13 @@ We will update the following list after the paper is accepted.
 
 ### 📊 Quantitative comparison
 <img src="assets/quan_nvs.jpeg"/>
-<img src="assets/quan_dvs.jpeg"/>
+<img src="assets/quan_dvs.jpeg"/> -->
 
 <!-- <h2>
   <img src="assets/acknowledgement.svg" alt="Lego Icon" style="height:24px; width:24px; vertical-align:middle; margin-right:10px;">
   Acknowledgements
 </h2> -->
-## 🙏 Acknowledgements
+## Acknowledgements
 
 This source code is derived from multiple sources, in particular: 
 [gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting/tree/main), 
@@ -68,8 +68,8 @@ This source code is derived from multiple sources, in particular:
 ```
 
 
-## 🤝 Contributors
+<!-- ## 🤝 Contributors
 
 <a href="https://github.com/SuperFCR/EvaGaussians/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=SuperFCR/EvaGaussians" />
-</a>
+</a> -->
