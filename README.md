@@ -42,11 +42,11 @@ We will release the code and dataset once the paper is accepted.
 </h2> -->
 ## Acknowledgements
 
-This source code is derived from multiple sources, in particular: 
+Many thanks to these open-source projects: 
 [gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting/tree/main), 
 [rpg_vid2e](https://github.com/uzh-rpg/EvDeblurNeRF). We thank the authors for releasing their code.
 
-```bibtex
+<!-- ```bibtex
 @Article{kerbl3Dgaussians,
       author       = {Kerbl, Bernhard and Kopanas, Georgios and Leimk{\"u}hler, Thomas and Drettakis, George},
       title        = {3D Gaussian Splatting for Real-Time Radiance Field Rendering},
@@ -65,7 +65,7 @@ This source code is derived from multiple sources, in particular:
   month = {June},
   year = {2020}
 }
-```
+``` -->
 
 
 <!-- ## 🤝 Contributors
