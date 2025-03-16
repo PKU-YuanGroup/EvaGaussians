@@ -46,8 +46,7 @@ We will release the code and dataset once the paper is accepted.
 
 Many thanks to these open-source projects: 
 [gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting/tree/main), 
-[rpg_vid2e](https://github.com/uzh-rpg/EvDeblurNeRF). We thank the authors for releasing their code.
-
+[rpg_vid2e](https://github.com/uzh-rpg/EvDeblurNeRF). 
 <!-- ```bibtex
 @Article{kerbl3Dgaussians,
       author       = {Kerbl, Bernhard and Kopanas, Georgios and Leimk{\"u}hler, Thomas and Drettakis, George},
